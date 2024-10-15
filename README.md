@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juzgas
-- 👀 I’m interested in learning everything useful to code smart contracts in blockhain
-- 🌱 I’m currently learning python and coding in Algorand blockchain
+- 👀 I’m interested in learning everything about smart contracts, web3 and blockhain
+- 🌱 I’m also currently learning all the necessary languages (python, solidity, html, css, javascript...)
 - 💞️ I’m looking to collaborate on anything exciting
 - 📫 How to reach me: m.alejandro.juzgado@gmail.com
 - 😄 Pronouns: he/him
